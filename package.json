@@ -1,0 +1,17 @@
+{
+  "name": "beatsaber-marked-songs",
+  "version": "1.0.0",
+  "description": "Copy marked songs in BeatSaber to specific directory.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "beatsaber"
+  ],
+  "author": "shinich39 <shinich39@gmail.com>",
+  "license": "MIT"
+}
